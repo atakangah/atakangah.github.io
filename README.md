@@ -1,12 +1,10 @@
 Lead Software Engineer  
 minoHealth & KaraAgro AI Labs  
 Bsc. Computer Science  
-Kwame Nkrumah University of Science and Technology 
-
-# Contact 
+Kwame Nkrumah University of Science and Technology  
 *📨*  andrewsatakangah@gmail.com  
-*📞*  +233-54-019-5142  
 *🔗*  [https://linkedin.com/in/andrewskangah](https://linkedin.com/in/andrewskangah)  
+*📞*  +233-54-019-5142  
 
 
 # Research Interests
@@ -42,14 +40,14 @@ Data-centric Machine Learning Research (DMLR) Workshop, ICML 2023
 - Member of Sustainability Committee at Turntabl Ghana Ltd
 
 # Skills
--Python
-- Data Science Artificial Intelligence
-- Data Structures and Algorithms
 - JavaScript
 - TypeScript
 - Angular
 - React Js & React Native
+- Data Structures and Algorithms
 - Redux
+- Python
+- Data Science Artificial Intelligence
 - MongoDb, MySQL, PostgreSql
 - Express Js
 - Node Js
