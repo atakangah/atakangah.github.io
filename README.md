@@ -2,10 +2,6 @@ Lead Software Engineer
 minoHealth & KaraAgro AI Labs  
 Bsc. Computer Science  
 Kwame Nkrumah University of Science and Technology  
-*📨*  andrewsatakangah@gmail.com  
-*🔗*  [https://linkedin.com/in/andrewskangah](https://linkedin.com/in/andrewskangah)  
-*📞*  +233-54-019-5142  
-
 
 # Research Interests
 I lead the software engineering team at minoHealth & KaraAgro AI Labs. My team builds software for both companies from scratch and all the way to deployment and maintenance. We participate in research within the AI department at the company. I am currently focused on AI forensics which is a new and emerging field to watermark generative AI output. I am also interested in Programming Languages, Embedded and Operating Systems, and I am happy to participate in research on LLMs as Operating Systems.
@@ -48,7 +44,7 @@ Data-centric Machine Learning Research (DMLR) Workshop, ICML 2023
 - Data Structures and Algorithms
 - Redux
 - Python
-- Data Science Artificial Intelligence
+- Data Science & Artificial Intelligence
 - MongoDb, MySQL, PostgreSql
 - Express Js
 - Node Js
@@ -69,3 +65,9 @@ Data-centric Machine Learning Research (DMLR) Workshop, ICML 2023
 
 # Awards
 - Best Physics Student - Bishop Herman College
+
+# Contact
+*📨*  andrewsatakangah@gmail.com  
+*🔗*  [https://linkedin.com/in/andrewskangah](https://linkedin.com/in/andrewskangah)  
+*📞*  +233-54-019-5142  
+
