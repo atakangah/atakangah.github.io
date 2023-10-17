@@ -37,6 +37,7 @@ Data-centric Machine Learning Research (DMLR) Workshop, ICML 2023
 # Leadership, Service and Mentoring
 - Ex. Public Relations Office - BHOBU-POGA Kwame Nkrumah University of Science and Technology
 - Mentor at the 2021 Google Africa Developers Scholarship Programme - Cloud Track
+- Member of the Earthday.org Global Sustainability Movement
 - Member of Sustainability Committee at Turntabl Ghana Ltd
 
 # Skills
