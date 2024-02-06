@@ -28,7 +28,7 @@ Data-centric Machine Learning Research (DMLR) Workshop, ICML 2023
 - [Troski Mobile App](https://play.google.com/store/apps/details?id=com.ja.troski), soon to become: Travel Buddy
 - MathWhizz Math Game - [Netlify](https://mathwhizz.netlify.app/)
 - Unitrans Microfinance Transactions Manager
-- Unitrans Deposit App - [Unitrans Company Website](https://unitranssusu.com/)
+- Unitrans Deposit App - [Unitrans Company Website](https://www.unitranssusu.com/)
 
 # Leadership, Service and Mentoring
 - Ex. Public Relations Office - BHOBU-POGA Kwame Nkrumah University of Science and Technology
