@@ -1,14 +1,14 @@
-DevSecOps
-Machine Learning
-Software
-Bsc. Computer Science  
+- DevSecOps
+- Machine Learning
+- Software
+- Bsc. Computer Science  
 Kwame Nkrumah University of Science and Technology  
 
 # Research Interests
-I am passionate about applying machine learning to scientific domains. My previous work focused on applying machine learning in segmenting illegal mining sites in Ghana. This research led to a paper I authored that is published under the International Joint Conference on Artificial Intelligence (IJCAI). I also co-authored a paper on application of computer vision to cashew disease detection in Ghana. I also co-built and deployed a Large Language Model into production in my time at Minohealth AI Labs. I am currently interested in PhD studies and doing research on using LLMs in Operating Systems.
+I am passionate about applying machine learning to scientific domains. My previous work focused on applying machine learning in segmenting illegal mining sites in Ghana. This research led to a paper I authored that is published under the International Joint Conference on Artificial Intelligence (IJCAI). I also co-authored a paper on application of computer vision to cashew disease detection in Ghana. I also co-built and deployed a Large Language Model into production in my time at Minohealth AI Labs. I am currently working on LLMs in Operating Systems and scouting for postgraduate studies.
 
 # Work Experience
-- DevSecOps Engineer, tech11 GmbH, Wurzburg, Germany
+- DevSecOps Engineer, tech11 GmbH, Wurzburg, Germany 
 - Lead Software Engineer, minoHealth & KaraAgro AI Labs, Accra, Ghana
 - Software Engineer, Morgan Stanley & Turntabl Ghana Ltd, New York & UK - Remote
 - Fullstack Software Developer, SafeHands Deliveries, Accra, Ghana
@@ -66,8 +66,8 @@ Data-centric Machine Learning Research (DMLR) Workshop, ICML 2023
 - Amazon Web Services
 
 # Awards
-- 3rd Place Lightning Talk - Africlimate AI - Deep Learning Indaba, Senegal '24
-- Best Physics Student - Bishop Herman College
+- 3rd Place Award Winner For Lightning Talks - Africlimate AI - Deep Learning Indaba, Senegal '24
+- Best Physics Student - Bishop Herman College 
 
 # Contact
 *📨*  andrewsatakangah@gmail.com  
