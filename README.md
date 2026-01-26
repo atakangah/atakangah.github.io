@@ -1,11 +1,12 @@
-- DevSecOps
 - Machine Learning
+- DevSecOps
 - Software
 - Bsc. Computer Science  
 Kwame Nkrumah University of Science and Technology  
+- [Google Scholar](https://scholar.google.com/citations?user=kzs84lEYS_YC&hl=fr)
 
 # Research Interests
-I am passionate about applying machine learning to scientific domains. My previous work focused on applying machine learning in segmenting illegal mining sites in Ghana. This research led to a paper I authored that is published under the International Joint Conference on Artificial Intelligence (IJCAI). I also co-authored a paper on application of computer vision to cashew disease detection in Ghana. I also co-built and deployed a Large Language Model into production in my time at Minohealth AI Labs. I am currently working on LLMs in Operating Systems and scouting for postgraduate studies.
+I am passionate about applying machine learning to scientific domains. My recent work was in computer vision focusing on applying machine learning in localizing illegal mining sites in Ghana. This research led to a paper I authored that is published under the International Joint Conference on Artificial Intelligence (IJCAI). I also co-authored a paper on application of computer vision to cashew disease detection in Ghana. I also co-built and deployed a Large Language Model into production in my time at Minohealth AI Labs. I am currently interested in pursuing my graduate studies.
 
 # Work Experience
 - DevSecOps Engineer, tech11 GmbH, Wurzburg, Germany 
@@ -16,13 +17,16 @@ I am passionate about applying machine learning to scientific domains. My previo
 - Android Mobile Developer Intern, KaraAgro AI Labs, Accra, Ghana
 
 # Publications
-2025
+- 2025
 VitSegh24: Illegal Mining Footprints Surveillance with GeoSpatial Imagery of
 Ghana
 Andrews Ata Kangah, Armstrong Francis Tumawu
 Second IJCAI AI for Good Symposium in Africa hosted by Deep Learning Indaba
+
 ***
-2023  
+
+
+- 2023  
 Localized Data Work as a Precondition for Data-Centric ML: A Case Study of Full Lifecycle Crop Disease Identification in Ghana  
 Darlington Akogo, Issah Samori, Cyril Akafia, Harriet Fiagbor, Andrews Kangah, Donald Kwame Asiedu, Kwabena Fuachie, Luis Oala  
 Data-centric Machine Learning Research (DMLR) Workshop, ICML 2023
